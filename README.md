@@ -1,7 +1,7 @@
 # 🚀 Nova Assistant
 
 **Author:** Dr Tom Moir
-**Version:** 2.0.0
+**Version:** 3.0.0
 **License:** MIT
 
 Nova Assistant is an **AI-powered multimodal desktop system** that combines large language models, autonomous agents, tool execution, code generation, and real-time interaction into a unified environment.
